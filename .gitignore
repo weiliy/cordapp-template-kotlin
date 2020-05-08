@@ -73,6 +73,3 @@ crashlytics-build.properties
 
 # docs related
 docs/virtualenv/
-
-# ignore idea
-.idea
